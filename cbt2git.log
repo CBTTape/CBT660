@@ -1,0 +1,5 @@
+2023-04-03 01:47:05.695664 - Initialized conversion of CBT660
+2023-04-03 01:47:05.726621 - Received CBT.V504.FILE660.PDS from FILE660.XMI 
+2023-04-03 01:47:05.729849 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE660.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:47:05.731327 - Found @FILE660.txt (text/plain) in CBT.V504.FILE660.PDS, moved to PDS/@FILE660
+2023-04-03 01:47:05.732356 - Found REXXER.rexx (text/plain) in CBT.V504.FILE660.PDS, moved to PDS/REXXER
